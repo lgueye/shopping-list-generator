@@ -1,0 +1,52 @@
+{
+    "id":null,
+    "title":"Tiramisu fraises et fraises Tagada",
+    "cookingTime":5,
+    "preparationTime":20,
+    "level":"easy",
+    "priceRange":"cheap",
+    "season":"spring",
+    "mealsNumber":6,
+    "type":"dessert",
+    "ingredients":[
+        {
+            "quantity":500,
+            "quantityUnit":"g",
+            "name":"mascarpone"
+        },
+        {
+            "quantity":4,
+            "quantityUnit":null,
+            "name":"jaunes d'oeufs"
+        },
+        {
+            "quantity":200,
+            "quantityUnit":"g",
+            "name":"sucre en poudre"
+        },
+        {
+            "quantity":300,
+            "quantityUnit":"g",
+            "name":"fraises"
+        },
+        {
+            "quantity":200,
+            "quantityUnit":"g",
+            "name":"fraises Tagada"
+        }
+    ],
+    "steps":[
+        {
+            "description":"Mélangez les jaunes d'oeufs avec le sucre, puis incorporez le mascarpone peu à peu"
+        },
+        {
+            "description":"Mettez sur le feu les fraises tagada avec un peu d'eau, puis mélangez jusqu'à dissolution complète des bonbons"
+        },
+        {
+            "description":"Lavez les fraises fraîches, puis placez-les dans un plat. Ajoutez les fraises Tagada ® fondues par-dessus, puis ensuite le mélange au mascarpone"
+        },
+        {
+            "description":"Mettre au réfrigérateur au mons deux heures (une nuit, c'est l'idéal)"
+        }
+    ]
+}

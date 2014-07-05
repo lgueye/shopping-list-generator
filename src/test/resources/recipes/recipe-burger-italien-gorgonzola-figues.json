@@ -1,0 +1,67 @@
+{
+    "id":null,
+    "title":"Burger italien gorgonzola figues",
+    "cookingTime":10,
+    "preparationTime":15,
+    "level":"easy",
+    "priceRange":"cheap",
+    "season":"spring",
+    "mealsNumber":8,
+    "type":"main",
+    "ingredients":[
+        {
+            "quantity":4,
+            "quantityUnit":null,
+            "name":"grands pains burger"
+        },
+        {
+            "quantity":100,
+            "quantityUnit":"grammes",
+            "name":"gorgonzola"
+        },
+        {
+            "quantity":4,
+            "quantityUnit":"cuillère à café",
+            "name":"confiture de figues"
+        },
+        {
+            "quantity":1,
+            "quantityUnit":"kilogrammes",
+            "name":"steack hachés frais"
+        },
+        {
+            "quantity":1,
+            "quantityUnit":null,
+            "name":"oignon"
+        },
+        {
+            "quantity":10,
+            "quantityUnit":null,
+            "name":"cerneaux de noix"
+        },
+        {
+            "quantity":4,
+            "quantityUnit":"cuillère à soupe",
+            "name":"sauce worcestershire"
+        },
+        {
+            "quantity":4,
+            "quantityUnit":"vinaigre balsamique",
+            "name":"sauce worcestershire"
+        }
+    ],
+    "steps":[
+        {
+            "description":"Dans une poêle, faire caraméliser l'oignon ciselé en le déglaçant au balsamique. Réserver."
+        },
+        {
+            "description":"Cuire les steaks en les arrosant légèrement de Worcestershire. "
+        },
+        {
+            "description":"Après avoir grillé le pain burger, monter le burger en mettant les oignons caramélisés, le steak, une tranche fine de gorgonzola qui fondra sur le steak chaud, des noix concassés, et de la confiture de figue sur le pain supérieur !"
+        },
+        {
+            "description":"Déguster bien chaud !"
+        }
+    ]
+}

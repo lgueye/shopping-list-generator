@@ -1,0 +1,71 @@
+{
+    "id":null,
+    "title":"Nems de poires au chocolat",
+    "cookingTime":2,
+    "preparationTime":20,
+    "level":"easy",
+    "priceRange":"intermediate",
+    "season":"winter",
+    "mealsNumber":6,
+    "type":"dessert",
+    "ingredients":[
+        {
+            "quantity":250,
+            "quantityUnit":"g",
+            "name":"framboises"
+        },
+        {
+            "quantity":600,
+            "quantityUnit":"g",
+            "name":"coulis de framboise"
+        },
+        {
+            "quantity":500,
+            "quantityUnit":"g",
+            "name":"fromage blanc lisse"
+        },
+        {
+            "quantity":2,
+            "quantityUnit":null,
+            "name":"citrons jaunes"
+        },
+        {
+            "quantity":6,
+            "quantityUnit":"feuilles",
+            "name":"gélatine"
+        },
+        {
+            "quantity":2,
+            "quantityUnit":null,
+            "name":"oeufs"
+        },
+        {
+            "quantity":100,
+            "quantityUnit":"g",
+            "name":"sucre en poudre"
+        }
+    ],
+    "steps":[
+        {
+            "description":"Faites ramollir les feuilles de gélatine dans un grand verre d'eau froide. Serrez-les entre vos mains pour en extraire l'eau. Pressez les citrons"
+        },
+        {
+            "description":"Dans une petite casserole, faites fondre sur feu très doux la gélatine dans le jus des citrons. Laissez tiédir"
+        },
+        {
+            "description":"Battez les blancs d'oeufs en neige ferme. Dans une terrine, mélangez au fouet le fromage blanc avec le sucre, deux jaunes d'oeufs, la gélatine tiédie. Ajoutez 500 g de coulis de framboise, puis incorporez délicatement les deux blancs montés en neige"
+        },
+        {
+            "description":"Versez la préparation à bavarois dans le moule. Placez le plat au réfrigérateur pendant 4 h"
+        },
+        {
+            "description":"RDémoulez le bavarois en plongeant le fond du moule 5 secondes dans l'évier rempli d'eau chaude. Retournez le bavarois sur un plat de service"
+        },
+        {
+            "description":"Décorez de framboises. Servez le reste de coulis de framboises à part"
+        },
+        {
+            "description":"En hiver, des framboises surgelées feront aussi bien l'affaire"
+        }
+    ]
+}

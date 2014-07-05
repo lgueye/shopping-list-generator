@@ -1,0 +1,65 @@
+{
+    "id":null,
+    "title":"Cake aux courgettes",
+    "cookingTime":30,
+    "preparationTime":15,
+    "level":"easy",
+    "priceRange":"cheap",
+    "season":"winter",
+    "mealsNumber":4,
+    "type":"starter",
+    "ingredients":[
+        {
+            "quantity":6,
+            "quantityUnit":null,
+            "name":"courgettes"
+        },
+        {
+            "quantity":3,
+            "quantityUnit":null,
+            "name":"oeufs entiers"
+        },
+        {
+            "quantity":125,
+            "quantityUnit":"g",
+            "name":"crème fraîche épaisse"
+        },
+        {
+            "quantity":1,
+            "quantityUnit":null,
+            "name":"ciboulette"
+        },
+        {
+            "quantity":2,
+            "quantityUnit":null,
+            "name":"échalotes"
+        },
+        {
+            "quantity":1,
+            "quantityUnit":"une pincee",
+            "name":"sel"
+        },
+        {
+            "quantity":1,
+            "quantityUnit":"une pincee",
+            "name":"poivre"
+        }
+    ],
+    "steps":[
+        {
+            "description":"Lavez les courgettes. Epluchez une bande sur deux et coupez-les en fines lamelles."
+        },
+        {
+            "description":"Faites-les rissoler à la poêle environs 5 mn avec 1 cuilère à soupe d'huile d'olive."
+        },
+        {
+            "description":"Préchauffez le four à thermostat 5/6 (180/200°C). Beurrez un moule à cake."
+        },
+        {
+            "description":"Dans un saladier, battez à la fourchette les oeufs, la crème, la ciboulette ciselée, le sel et le poivre."
+        },
+        {
+            "description":"Versez les courgettes et la préparation dans le moule à cake et faites cuire environ 25 mn."
+        }
+    ]
+}

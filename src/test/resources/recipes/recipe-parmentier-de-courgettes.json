@@ -1,0 +1,73 @@
+{
+    "id":null,
+    "title":"Parmentier de courgettes",
+    "cookingTime":60,
+    "preparationTime":20,
+    "level":"easy",
+    "priceRange":"cheap",
+    "season":"winter",
+    "mealsNumber":4,
+    "type":"starter",
+    "ingredients":[
+        {
+            "quantity":1,
+            "quantityUnit":"kg",
+            "name":"courgettes"
+        },
+        {
+            "quantity":400,
+            "quantityUnit":"g",
+            "name":"viande hachée de veau"
+        },
+        {
+            "quantity":20,
+            "quantityUnit":"cl",
+            "name":"coulis de tomate"
+        },
+        {
+            "quantity":"1",
+            "quantityUnit":null,
+            "name":"oignon"
+        },
+        {
+            "quantity":3,
+            "quantityUnit":"branches",
+            "name":"persil"
+        },
+        {
+            "quantity":null,
+            "quantityUnit":null,
+            "name":"thym"
+        },
+        {
+            "quantity":null,
+            "quantityUnit":null,
+            "name":"sel"
+        },
+        {
+            "quantity":null,
+            "quantityUnit":null,
+            "name":"poivre"
+        }
+    ],
+    "steps":[
+        {
+            "description":"Faire revenir dans un peu d'huile d'olive, l'oignon et la viande hachée."
+        },
+        {
+            "description":"Lorsque ceux-ci ont pris une belle couleur, ajouter le coulis de tomates, saler et poivrer, et ajouter une herbe aromatique (thym)."
+        },
+        {
+            "description":"Laisser réduire et pendant ce temps, laver et couper les courgettes en fines lamelles."
+        },
+        {
+            "description":"Afin que celles-ci ne sèchent pas, ajouter un filet de crème fraîche."
+        },
+        {
+            "description":"Terminer par un peu d'emmental râpé."
+        },
+        {
+            "description":"Mettre au four à 180°C (thermostat 6), pendant 1 h environ."
+        }
+    ]
+}

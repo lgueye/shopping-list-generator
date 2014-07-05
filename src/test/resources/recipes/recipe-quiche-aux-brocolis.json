@@ -1,0 +1,73 @@
+{
+    "id":null,
+    "title":"Brocolis aux lardons",
+    "cookingTime":20,
+    "preparationTime":10,
+    "level":"easy",
+    "priceRange":"cheap",
+    "season":"autumn",
+    "mealsNumber":4,
+    "type":"main",
+    "ingredients":[
+        {
+            "quantity":2,
+            "quantityUnit":null,
+            "name":"brocolis"
+        },
+        {
+            "quantity":250,
+            "quantityUnit":"grammes",
+            "name":"lardons nature"
+        },
+        {
+            "quantity":20,
+            "quantityUnit":"cl",
+            "name":"crème fraîche"
+        },
+        {
+            "quantity":2,
+            "quantityUnit":null,
+            "name":"oignons"
+        },
+        {
+            "quantity":2,
+            "quantityUnit":null,
+            "name":"échalotes"
+        },
+        {
+            "quantity":200,
+            "quantityUnit":"g",
+            "name":"gruyère"
+        },
+        {
+            "quantity":null,
+            "quantityUnit":null,
+            "name":"sel"
+        },
+        {
+            "quantity":null,
+            "quantityUnit":null,
+            "name":"poivre"
+        }
+    ],
+    "steps":[
+        {
+            "description":"Préchauffez le four à 180°C."
+        },
+        {
+            "description":"Plongez les brocolis dans une casserole d´eau chaude et laissez-les cuire pendant environ 10 minutes. Vérifiez la cuisson à l´aide de la pointe d´un couteau."
+        },
+        {
+            "description":"Faites revenir les lardons dans une poêle avec les oignons et les échalotes coupées en petits morceaux. Assaisonnez et ajoutez la crème, laissez mijoter 2 à 3 minutes."
+        },
+        {
+            "description":"Une fois les brocolis cuits, mettez-les dans un plat à gratin et recouvrez-les du mélange à la crème."
+        },
+        {
+            "description":"Parsemez de gruyère."
+        },
+        {
+            "description":"Enfournez et laissez cuire 10-12 minutes."
+        }
+    ]
+}

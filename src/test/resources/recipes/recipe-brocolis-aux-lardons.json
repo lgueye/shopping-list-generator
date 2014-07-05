@@ -1,0 +1,70 @@
+{
+    "id":null,
+    "title":"Quiche aux brocolis",
+    "cookingTime":30,
+    "preparationTime":10,
+    "level":"easy",
+    "priceRange":"cheap",
+    "season":"autumn",
+    "mealsNumber":4,
+    "type":"main",
+    "ingredients":[
+        {
+            "quantity":250,
+            "quantityUnit":"grammes",
+            "name":"biscuits apéritifs (crackers) écrasés en chapelure"
+        },
+        {
+            "quantity":100,
+            "quantityUnit":"grammes",
+            "name":"beurre fondu"
+        },
+        {
+            "quantity":4,
+            "quantityUnit":null,
+            "name":"oeufs"
+        },
+        {
+            "quantity":16,
+            "quantityUnit":"cl",
+            "name":"lait"
+        },
+        {
+            "quantity":1,
+            "quantityUnit":"tasse",
+            "name":"fromage râpé (gruyère, cheddar, Comté ou autres, selon vos goûts)"
+        },
+        {
+            "quantity":1,
+            "quantityUnit":"cuillère à café",
+            "name":"sel"
+        },
+        {
+            "quantity":1,
+            "quantityUnit":"cuillère à café",
+            "name":"poivre"
+        },
+        {
+            "quantity":1,
+            "quantityUnit":null,
+            "name":"tomate tranchée mince"
+        }
+    ],
+    "steps":[
+        {
+            "description":"Chauffer le four à 350°F/180°C."
+        },
+        {
+            "description":"Mélanger la chapelure de biscuits et le beurre fondu. Presser dans le fond et sur les côtés d'un moule à tarte de 9 pouces (22,5 cm). Mettre au four 10 mn."
+        },
+        {
+            "description":"Mélanger les oeufs, le lait, les brocolis, les 2/3 du fromage, le sel et le poivre. Verser dans le plat, sur la pâte."
+        },
+        {
+            "description":"Déposer les tranches de tomates sur le dessus et parsemer du reste de fromage."
+        },
+        {
+            "description":"Cuire au four 30 minutes."
+        }
+    ]
+}

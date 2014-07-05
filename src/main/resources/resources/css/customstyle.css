@@ -1,0 +1,174 @@
+body {
+	background: #ECF0F1;
+}
+
+.main {
+	text-align: center;
+	width: 960px;
+	margin: 0 auto;
+}
+
+.main .palette {
+	width: 960px;
+	display: inline-block;
+	margin-top: 50px;
+	padding-bottom: 25px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+}
+
+.main .main-description {
+	border-top: 1px solid #BDC3C7;
+	padding-top: 20px;
+	text-align: left;
+}
+
+.main h1 {
+	font-size: 20px;
+}
+
+.main h1, .main h3 {
+	text-align: center;
+}
+
+.navbar .brand {
+  color: #fff;
+}
+
+.navbar .nav > li > a {
+  color: #fff;
+}
+
+.navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
+  color: #E3781B;
+  background: #2c3e50;
+  text-shadow: none;
+  font-weight: bold;
+}
+
+.navbar .nav > li > a {
+  text-shadow: none;
+}
+
+.navbar .nav > li > a:focus, .navbar .nav > li > a:hover {
+  color: #fff;
+  text-shadow: 0 1px 0 #FFFFFF;
+}
+
+input.todo-search-field {
+	padding: 5px;
+}
+
+textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, .uneditable-input:focus {
+	background: #fff;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	background-image: none;
+}
+
+.navbar .btn-navbar {
+	background: #2c3e50;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.pallete-item {
+	height: 120px;
+	width: 120px;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	margin: 0 0 20px 22px;
+}
+
+.pallete-item .img-container {
+    width: 100px;
+	height: 100px;
+	margin: 10px;
+	background: #fff;
+	border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+}
+
+.navbar .btn-navbar {
+	background: #34495e;
+}
+
+.navbar .btn-navbar:hover, .navbar .btn-navbar:focus, .navbar .btn-navbar:active, .navbar .btn-navbar.active, .navbar .btn-navbar.disabled, .navbar .btn-navbar[disabled] {
+	background:;
+}
+
+.hero-unit {
+	padding: 60px 10px;
+}
+
+.btn-info {
+	background: #F5853B;
+}
+
+.advantages {
+
+}
+
+.advantages li {
+	list-style: none;
+	display: inline-block;
+	width: 200px;
+	margin: 50px;
+}
+
+.advantages li .description {
+	margin-top: 10px;
+	padding-top: 20px;
+}
+
+.btn-info:hover{
+	background:  #DE5900;
+}
+
+#recipes-list-ul {
+	position: relative;
+}
+
+#recipes-list-ul .counter {
+	float: right;
+	position: absolute;
+	margin-right: 300px;
+	top: 35%;
+	left: 60%;
+}
+
+#recipes-list-ul .counter .plus, #recipes-list-ul .counter .minus {
+	color: #fff;
+	display: inline-block;
+	padding: 1px;
+	border: 2px solid #fff;
+	border-radius: 25px;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	text-align: center;
+	width: 23px;
+	font-weight: bold;
+	font-size: 20px;
+	margin: 5px;
+}
+
+.fui-user {
+	color: #fff;
+	display: inline-block;
+	margin: 0 5px;
+}
+
+.step-shopping{
+	margin-left: 78px;
+	color:black;
+}
+.step-shopping-selected{
+	margin-left: 78px;
+	color:#F5853B;
+}

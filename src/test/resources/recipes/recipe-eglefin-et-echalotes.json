@@ -1,0 +1,60 @@
+{
+    "id":null,
+    "title":"Églefin et échalotes",
+    "cookingTime":20,
+    "preparationTime":5,
+    "level":"easy",
+    "priceRange":"intermediate",
+    "season":"winter",
+    "mealsNumber":6,
+    "type":"main",
+    "ingredients":[
+        {
+            "quantity":4,
+            "quantityUnit":"filets",
+            "name":"églefin"
+        },
+        {
+            "quantity":3,
+            "quantityUnit":null,
+            "name":"échalotes"
+        },
+        {
+            "quantity":4,
+            "quantityUnit":"branches",
+            "name":"persil"
+        },
+        {
+            "quantity":30,
+            "quantityUnit":"g",
+            "name":"beurre demi-sel"
+        },
+        {
+            "quantity":10,
+            "quantityUnit":"g",
+            "name":"courgettes"
+        },
+        {
+            "quantity":15,
+            "quantityUnit":"cl",
+            "name":"vin blanc"
+        }
+    ],
+    "steps":[
+        {
+            "description":"Préchauffer le four à 200°C (thermostat 6-7)."
+        },
+        {
+            "description":"Peler les échalotes et les hacher ! Ciseler le persil et le mélanger avec les échalotes"
+        },
+        {
+            "description":"Dans un plat à gratin beurré, déposer les filets, saler, poivrer, couvrir d'échalotes et de persil"
+        },
+        {
+            "description":"Verser le vin blanc, mettre des noisettes de beurre sur les filets"
+        },
+        {
+            "description":"Enfourner pour 20 min de cuisson"
+        }
+    ]
+}

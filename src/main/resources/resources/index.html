@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-width=1.0">
+	<title>Shopping List Generator</title>
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/bootstrap-responsive.css">
+
+	<link href="css/flat-ui.css" rel="stylesheet">
+	<link href="css/demo.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/customstyle.css">
+	<!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+	<!--[if lt IE 9]>
+	<script src="js/html5shiv.js"></script>
+	<script src="js/respond.min.js"></script>
+	<![endif]-->
+
+
+</head>
+<body>
+<div class="navbar navbar-fixed-top">
+	<div class="palette palette-wet-asphalt">
+		<div class="container">
+			<a class="btn btn-navbar " data-toggle="collapse" data-target=".nav-collapse">
+				<span class="icon-th-list fui-list"></span>
+			</a>
+			<a href="index2.html" class="brand">Shopping List Generator</a>
+			<div class="nav-collapse collapse">
+				<ul class="nav pull-right">
+					<li class="active"><a href="index2.html">Home</a></li>
+					<li><a href="#">Preferences</a></li>
+					<li><a href="#">About Us</a></li>
+					<li><a href="#">Contact Us</a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="container" class="hero-unit">
+	<div class="container">
+		<div>
+			<div class="pallete-item palette-green-sea">
+				<div class="img-container"><a href="#" onclick="javascript:findReceipesByCategory('Starter');return false;"><img src="/images/categories/starter.jpg" /></a></div>
+			</div>
+			<div class="pallete-item palette-green-sea">
+				<div class="img-container"><a href="#" onclick="javascript:findReceipesByCategory('Dessert');return false;" ><img src="/images/categories/dessert.jpg" /></a></div>
+			</div>
+			<div class="pallete-item palette-green-sea">
+				<div class="img-container"><a href="#" onclick="javascript:findReceipesByCategory('Meat');return false;"><img src="/images/categories/meat.jpg"/></a></div>
+			</div>
+			<div class="pallete-item palette-green-sea">
+				<div class="img-container"><a href="#" onclick="javascript:findReceipesByCategory('Fish');return false;"><img src="/images/categories/fish.jpg"/></a></div>
+			</div>
+			<div class="pallete-item palette-green-sea">
+				<div class="img-container"><a href="#" onclick="javascript:findReceipesByCategory('Salad');return false;"><img src="/images/categories/salad.jpg"/></a></div>
+			</div>
+			<a href="#" onclick="javascript:getShoppingCart(); return false;" class="btn btn-lg btn-info" style="float:right; margin-top: 75px;">Generate Shopping List</a>
+		</div>
+
+		<div class="clearfix"></div>
+		<div class="todo">
+			<div class="todo-search">
+				<input id="search-input" class="todo-search-field" type="search" value="" placeholder="Search" onKeyDown="if(event.keyCode==13){findByKeyword(this.value);return false;}" >
+			</div>
+			<ul id="recipes-list-ul">
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div class="container">
+	<div class="row-fluid">
+
+
+	</div>
+</div>
+<hr>
+<div class="container">
+	<div class="row-fluid">
+		<div class="span4">
+			<p>&copy; 2014 <a href="#">Shopping list generator</a></p>
+		</div>
+		<div class="span4 text-right">
+			<ul class="nav inline">
+				<li><a href="#">About Us</a></li>
+				<li><a href="#">Contact Us</a></li>
+				<li><a href="#">Privacy Policy</a></li>
+			</ul>
+		</div>
+		<div class="span4 text-right">
+			<p></p>
+		</div>
+	</div>
+</div>
+
+
+<!--JS-->
+<script src="js/jquery-1.8.3.min.js"></script>
+<script src="js/jquery-ui-1.10.3.custom.min.js"></script>
+<script src="js/jquery.ui.touch-punch.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src="js/bootstrap-select.js"></script>
+<script src="js/bootstrap-switch.js"></script>
+<script src="js/flatui-checkbox.js"></script>
+<script src="js/flatui-radio.js"></script>
+<script src="js/jquery.tagsinput.js"></script>
+<script src="js/jquery.placeholder.js"></script>
+<script src="js/jquery.stacktable.js"></script>
+<script src="http://vjs.zencdn.net/4.3/video.js"></script>
+<script src="js/application.js"></script>
+<script src="js/receipes.js"></script>
+<script type="text/javascript">
+// loading data 
+	$.ajax(
+			{type : "GET",
+			url : "api/recipes/reload", 
+			contentType : 'application/json',
+			dataType : 'json'} 
+	);
+</script>
+</body>
+</html>

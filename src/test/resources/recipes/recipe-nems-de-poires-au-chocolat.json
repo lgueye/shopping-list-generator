@@ -1,0 +1,61 @@
+{
+    "id":null,
+    "title":"Nems de poires au chocolat",
+    "cookingTime":10,
+    "preparationTime":20,
+    "level":"easy",
+    "priceRange":"intermediate",
+    "season":null,
+    "mealsNumber":4,
+    "type":"dessert",
+    "ingredients":[
+        {
+            "quantity":2,
+            "quantityUnit":null,
+            "name":"poires"
+        },
+        {
+            "quantity":40,
+            "quantityUnit":"g",
+            "name":"beurre"
+        },
+        {
+            "quantity":2,
+            "quantityUnit":"cuillère à soupe",
+            "name":"sirop de sucre de canne"
+        },
+        {
+            "quantity":1,
+            "quantityUnit":"tablette",
+            "name":"chocolat à pâtisserie"
+        },
+        {
+            "quantity":4,
+            "quantityUnit":"feuilles",
+            "name":"brick"
+        }
+    ],
+    "steps":[
+        {
+            "description":"Couper les poires en petits morceaux, les faire revenir dans le beurre préalablement fondu et le sirop de sucre de canne"
+        },
+        {
+            "description":"Une fois chaudes, faire égoutter les poires dans une passoire"
+        },
+        {
+            "description":"Faire fondre le chocolat et y ajouter les poires"
+        },
+        {
+            "description":"Etaler les feuilles de brick et répartir le mélange poire /chocolat"
+        },
+        {
+            "description":"Rouler les feuilles, puis rabattre les bords"
+        },
+        {
+            "description":"Faire frire à la poêle dans de l'huile chaude, égoutter"
+        },
+        {
+            "description":"Servir tiède ou froid"
+        }
+    ]
+}

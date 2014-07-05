@@ -1,0 +1,83 @@
+{
+    "id":null,
+    "title":"Omelette fondante aux tomates, asperges et comté",
+    "cookingTime":10,
+    "preparationTime":15,
+    "level":"easy",
+    "priceRange":"intermediate",
+    "season":"winter",
+    "mealsNumber":6,
+    "type":"starter",
+    "ingredients":[
+        {
+            "quantity":300,
+            "quantityUnit":"g",
+            "name":"jambon"
+        },
+        {
+            "quantity":300,
+            "quantityUnit":"g",
+            "name":"comté râpé"
+        },
+        {
+            "quantity":12,
+            "quantityUnit":null,
+            "name":"oeufs"
+        },
+        {
+            "quantity":12,
+            "quantityUnit":null,
+            "name":"asperges vertes"
+        },
+        {
+            "quantity":9,
+            "quantityUnit":null,
+            "name":"tomates"
+        },
+        {
+            "quantity":2,
+            "quantityUnit":null,
+            "name":"oignons"
+        },
+        {
+            "quantity":37.5,
+            "quantityUnit":"cl",
+            "name":"lait"
+        },
+        {
+            "quantity":null,
+            "quantityUnit":null,
+            "name":"huile d'olive"
+        },
+        {
+            "quantity":null,
+            "quantityUnit":null,
+            "name":"sel"
+        },
+        {
+            "quantity":null,
+            "quantityUnit":null,
+            "name":"poivre"
+        }
+    ],
+    "steps":[
+        {
+            "description":"Préchauffer le four à 200°C (thermostat 6-7)"
+        },
+        {
+            "description":"Peler les tomates après les avoir ébouillantées et puis les concasser. Hacher l'oignon puis le faire fondre dans l'huile durant 10 minutes avec les tomates"
+        },
+        {
+            "description":"Dorer les asperges dans l'huile pendant 5 minutes"
+        },
+        {
+            "description":"Détailler le jambon en dés."
+        },
+        {
+            "description":"Battre les oeufs en omelette, saler, poivrer, ajouter le jambon, le lait et le fromage puis le mélange oignon-tomate"
+        },
+        {
+            "description":"Verser la préparation dans un plat à four, déposer les asperges dessus et enfourner pour 15 à 20 minutes de cuisson. L'omelette doit être bien gonflée"
+        }
+    ]
+}

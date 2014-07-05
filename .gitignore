@@ -1,0 +1,7 @@
+.idea
+data
+.log
+.hg*
+*.iml
+target
+

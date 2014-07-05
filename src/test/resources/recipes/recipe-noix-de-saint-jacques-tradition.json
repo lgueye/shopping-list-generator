@@ -1,0 +1,41 @@
+{
+    "id":null,
+    "title":"Noix de Saint Jacques tradition",
+    "cookingTime":10,
+    "preparationTime":0,
+    "level":"easy",
+    "priceRange":"intermediate",
+    "season":"autumn",
+    "mealsNumber":2,
+    "type":"main",
+    "ingredients":[
+        {
+            "quantity":8,
+            "quantityUnit":null,
+            "name":"noix de Saint-Jacques"
+        },
+        {
+            "quantity":1,
+            "quantityUnit":"noix",
+            "name":"beurre salé"
+        },
+        {
+            "quantity":null,
+            "quantityUnit":null,
+            "name":"sel de guérande"
+        },
+        {
+            "quantity":null,
+            "quantityUnit":null,
+            "name":"poivre"
+        }
+    ],
+    "steps":[
+        {
+            "description":"Faire fondre la noix de beurre dans une poêle. Déposer les noix et les faire dorer légèrement sur chaque côté"
+        },
+        {
+            "description":"Servir immédiatement avec une toute petite pincée de poivre et une de sel de Guérande"
+        }
+    ]
+}

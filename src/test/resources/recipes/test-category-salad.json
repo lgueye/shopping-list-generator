@@ -1,0 +1,82 @@
+{
+    "id":null,
+    "title":"Salade thon haricots verts, vinaigre de framboise",
+    "cookingTime":60,
+    "preparationTime":20,
+    "level":"easy",
+    "priceRange":"cheap",
+    "season":"winter",
+    "mealsNumber":4,
+    "type":"starter",
+    "category":"salad",
+    "ingredients":[
+        {
+            "quantity":500,
+            "quantityUnit":"g",
+            "name":"chair à saucisse"
+        },
+        {
+            "quantity":4,
+            "quantityUnit":null,
+            "name":"grosses tomates"
+        },
+        {
+            "quantity":2,
+            "quantityUnit":"gousses",
+            "name":"ail"
+        },
+        {
+            "quantity":8,
+            "quantityUnit":null,
+            "name":"oignon"
+        },
+        {
+            "quantity":null,
+            "quantityUnit":null,
+            "name":"thym"
+        },
+        {
+            "quantity":null,
+            "quantityUnit":null,
+            "name":"persil"
+        },
+        {
+            "quantity":null,
+            "quantityUnit":null,
+            "name":"beurre"
+        },
+        {
+            "quantity":null,
+            "quantityUnit":null,
+            "name":"sel"
+        },
+        {
+            "quantity":null,
+            "quantityUnit":null,
+            "name":"poivre"
+        }
+    ],
+    "steps":[
+        {
+            "description":"Eplucher et hacher les oignons. Eplucher et hacher les gousses d'ail"
+        },
+        {
+            "description":"Mettre la moitié des oignons dans la chair à saucisse. Ajouter l'ail, le sel, le poivre et un peu de persil"
+        },
+        {
+            "description":"Couper le haut des tomates et les évider. Poivrer et saler l'intérieur. Mettre la farce à l'intérieur et remettre les chapeaux"
+        },
+        {
+            "description":"Mettre le reste des oignons dans un plat avec la chair des tomates."
+        },
+        {
+            "description":"Mettre les tomates farcies dans le plat. Parsemez d'un peu de thym et mette une noisette de beurre sur chaque tomates"
+        },
+        {
+            "description":"Faire cuire au four chaud à 180°C (thermostat 6) pendant 1 heure environ"
+        },
+        {
+            "description":"Servir avec du riz"
+        }
+    ]
+}
